@@ -4,4 +4,7 @@
   (lib (name "TPS5430DDAR")(type "KiCad")(uri "${KIPRJMOD}/Library/TPS5430DDAR")(options "")(descr ""))
   (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/Library/ICM-42688-P")(options "")(descr ""))
   (lib (name "BMP388")(type "KiCad")(uri "${KIPRJMOD}/Library/BMP388")(options "")(descr ""))
+  (lib (name "ESP32-C3FH4")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-C3FH4")(options "")(descr ""))
+  (lib (name "SX1280IMLTRT")(type "KiCad")(uri "${KIPRJMOD}/Library/SX1280IMLTRT")(options "")(descr ""))
+  (lib (name "TS5A23157DGSR")(type "KiCad")(uri "${KIPRJMOD}/Library/TS5A23157DGSR")(options "")(descr ""))
 )
