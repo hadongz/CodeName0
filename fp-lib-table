@@ -9,4 +9,5 @@
   (lib (name "TS5A23157DGSR")(type "KiCad")(uri "${KIPRJMOD}/Library/TS5A23157DGSR")(options "")(descr ""))
   (lib (name "2450FM07D0034T")(type "KiCad")(uri "${KIPRJMOD}/Library/2450FM07D0034T")(options "")(descr ""))
   (lib (name "TPS54331DR")(type "KiCad")(uri "${KIPRJMOD}/Library/TPS54331DR")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/PinHeader_2_54mm_3x4/Library.pretty")(options "")(descr ""))
 )
